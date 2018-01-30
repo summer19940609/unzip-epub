@@ -1,0 +1,25 @@
+{
+  "name": "unzip-epub",
+  "version": "1.0.0",
+  "description": "unzip-epub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summer19940609/unzip-epub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summer19940609/unzip-epub/issues"
+  },
+  "homepage": "https://github.com/summer19940609/unzip-epub#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "unzip": "^0.1.11"
+  }
+}
